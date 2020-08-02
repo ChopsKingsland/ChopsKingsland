@@ -2,7 +2,7 @@
 
 ---
 
-[![Chops' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChopsKingsland&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Chops' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChopsKingsland&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ChopsKingsland/ChopsKingsland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
