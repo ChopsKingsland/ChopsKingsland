@@ -2,6 +2,9 @@
 
 My name is Charlie "Chops" Kingsland and I love programming
 
+- 🔭 I’m currently working on mobile controlled LED matrix display
+- 🌱 I’m currently working on improving my Python and C++
+
 ---
 
 [![Chops' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChopsKingsland&hide=issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChopsKingsland&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
