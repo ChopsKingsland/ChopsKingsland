@@ -1,4 +1,5 @@
 ### Hi there 👋
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ChopsKingsland">](https://twitter.com/intent/follow?screen_name=ChopsKingsland)
 
 My name is Charlie "Chops" Kingsland and I love programming
 
