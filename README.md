@@ -3,8 +3,7 @@
 
 My name is Charlie "Chops" Kingsland and I love programming
 
-- 🔭 I’m currently working on mobile controlled LED matrix display
-- 🌱 I’m currently working on improving my Python and C++
+- 🔭 I’m currently learning SwiftUI, and I am started to develop iOS apps
 
 ---
 
@@ -12,7 +11,8 @@ My name is Charlie "Chops" Kingsland and I love programming
 
 ---
 #### Languages & Tools
-<img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/arduino.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/c++.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/css.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/git.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/github.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/html.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/js.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/node.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/python.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/rpi.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/vscode.png" height="35" width="35">
+<img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/arduino.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/c++.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/css.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/git.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/github.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/html.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/js.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/node.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/python.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/rpi.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/vscode.png" height="35" width="35">    <img src="https://github.com/ChopsKingsland/ChopsKingsland/blob/master/images/swiftui-icon.png" height="35" width="35">
+
 
 ---
 #### Social Media
